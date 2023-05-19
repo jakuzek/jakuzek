@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I'm Jakub Ziontek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakuzek&label=Profile%20views&color=0e75b6&style=flat" alt="jakuzek" /> </p>
 
-- 🔭 I’m currently working on **Steganography for Simple CyberSecurity Projects**
+- 🔭 I’m currently working on **Image Encryption and Decryption**
 
 - 🌱 I’m currently learning **python**
 
